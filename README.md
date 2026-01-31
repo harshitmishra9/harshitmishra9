@@ -49,5 +49,4 @@ I balance debugging code with creating engaging coding tutorials.
 - **Email:** harshit952295@gmail.com
 
 
-LinkedIn: www.linkedin.com/in/harshit-mishra-67a88a262
-Email: harshit952295@gmail.com
+
