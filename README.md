@@ -1,29 +1,30 @@
 ## Hi 👋, I'm Harshit Mishra  
 
 🎓 **B.Tech in Computer Science (AIML), Class of 2025**  
-💻 Entry-level **Software Engineer | Java & Machine Learning**
+💻 Entry-level **Software Engineer | Java & Spring Boot Backend Development**
 
-I build practical applications using **Java and Python**, with experience in **Machine Learning projects** and a growing focus on **backend development**.
+I build practical applications using **Java and Spring Boot**, with experience in **backend systems**, **REST APIs**, and **Machine Learning projects**.  
 
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Java, Python, C++
-- **Core Concepts:** OOP, SQL, Basics of DSA
-- **Tools:** VS Code, Jupyter Notebook, Git
-- **Interests:** Backend Development, Machine Learning, Product Engineering
+- **Languages:** Java, Python
+- **Frameworks & Tools:** Spring Boot, VS Code, Jupyter Notebook, Git
+- **Core Concepts:** OOP, SQL, REST API, DSA
+- **Interests:** Backend Development, ERP Systems, Product Engineering
 
 ---
 
-### 🚀 Projects
-**🔹 Online Payment Fraud Detection**  
-- Decision Tree–based ML model to identify fraudulent transactions  
-- Worked on data preprocessing, feature engineering, and model evaluation  
-- Developed during **Infosys Internship**
+### 🚀 Featured Projects
+**🔹 BookStore (Java + Spring Boot)**  
+- Spring Boot application for managing bookstore operations  
+- Features: inventory management, user authentication, sales tracking  
+- Built with **REST APIs**, modular backend design, and database integration   
 
-**🔹 Quiz Platform (Java)**  
-- Java-based application built using clean OOP principles  
-- Features include user authentication, quiz categories, and scoring system  
+**🔹 ERP System (Java + Spring Boot)**  
+- Enterprise Resource Planning system built using Spring Boot  
+- Features: employee management, product & inventory tracking, reporting system  
+- Focus on **scalable backend architecture, RESTful services, and clean code**  
 
 ---
 
@@ -32,8 +33,8 @@ I build practical applications using **Java and Python**, with experience in **M
 
 ---
 
-### 🌱 Currently Working On
-- Strengthening Java backend fundamentals  
+### 🌱 Currently Learning
+- Strengthening Java Spring Boot backend fundamentals  
 - Practicing DSA and SQL regularly  
 - Building small projects and improving GitHub consistency  
 
@@ -45,8 +46,6 @@ I balance debugging code with creating engaging coding tutorials.
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/harshit-mishra-67a88a262  
+- **LinkedIn:** [Harshit Mishra](https://www.linkedin.com/in/harshit-mishra-67a88a262)  
 - **Email:** harshit952295@gmail.com
-
-
 
