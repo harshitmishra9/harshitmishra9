@@ -1,6 +1,6 @@
-## Hi 👋, I'm Harshit Mishra  
+## Hi, I'm Harshit Mishra  
 
-💻 **Software Engineer @ LTIMindtree | Java & Spring Boot Backend Development**
+💻 **Software Engineer @ LTIMindtree | Java Full Stack Development**
 🎓 **B.Tech in Computer Science (AIML), Class of 2025**  
 
 I build practical applications using **Java and Spring Boot**, with experience in **backend systems**, **REST APIs**, and **Machine Learning projects**.  
