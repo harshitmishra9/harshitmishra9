@@ -1,14 +1,14 @@
 ## Hi 👋, I'm Harshit Mishra  
 
+💻 **Software Engineer @ LTIMindtree | Java & Spring Boot Backend Development**
 🎓 **B.Tech in Computer Science (AIML), Class of 2025**  
-💻 Entry-level **Software Engineer | Java & Spring Boot Backend Development**
 
 I build practical applications using **Java and Spring Boot**, with experience in **backend systems**, **REST APIs**, and **Machine Learning projects**.  
 
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Java, Python
+- **Languages:** Java
 - **Frameworks & Tools:** Spring Boot, VS Code, Jupyter Notebook, Git
 - **Core Concepts:** OOP, SQL, REST API, DSA
 - **Interests:** Backend Development, ERP Systems, Product Engineering
@@ -28,20 +28,9 @@ I build practical applications using **Java and Spring Boot**, with experience i
 
 ---
 
-### 📜 Certifications
-- LinkedIn Marketing Solutions Fundamentals
-
----
-
-### 🌱 Currently Learning
-- Strengthening Java Spring Boot backend fundamentals  
+### 🌱 Currently Learning 
 - Practicing DSA and SQL regularly  
-- Building small projects and improving GitHub consistency  
-
----
-
-### 🌟 Fun Fact
-I balance debugging code with creating engaging coding tutorials.
+- Building small projects and improving GitHub consistency 
 
 ---
 
